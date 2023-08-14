@@ -13,7 +13,7 @@ poetry install --no-root
 ### Linting and tests
 Run all tests and checks:
 ```shell
-poetry run nox --no-venv -s auto_format
+poetry run nox --no-venv
 ```
 
 Lint Python code:
