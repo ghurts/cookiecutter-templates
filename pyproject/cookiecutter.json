@@ -1,0 +1,7 @@
+{
+    "name": "ghurts",
+    "email": "<ghurts@tofudream.com>",
+    "project_name": "Nameless",
+    "package_name": "{{ cookiecutter.project_name|lower|replace(' ','_')|replace('-','_') }}",
+    "version": "0.1.0"
+}
